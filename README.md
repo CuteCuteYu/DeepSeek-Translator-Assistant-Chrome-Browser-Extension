@@ -15,7 +15,7 @@ A simple and efficient Chrome extension that uses DeepSeek API to translate text
 
 1. **Download or Clone the Repository**
    ```
-   git clone https://github.com/yourusername/DeepSeek-Translator-Assistant-Chrome-Browser-Extension.git
+   git clone https://github.com/cutecuteyu/DeepSeek-Translator-Assistant-Chrome-Browser-Extension.git
    ```
 
 2. **Open Chrome Extensions Page**
